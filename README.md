@@ -1,9 +1,9 @@
 # AddressBook
 
 ## Requirements and Running
-Requires Python3.x and bottle (v0.12.13), once python is installed bottle can be installed using:
-`pip install bottle==0.12.13`
-Once installed, the application can be ran using:
+Requires Python3.x and bottle (v0.12.13), once python is installed bottle can be installed using: \n
+`pip install bottle==0.12.13` \n
+Once installed, the application can be ran using: \n
 `python website.py`
 
 ## Features
