@@ -40,14 +40,14 @@ def main():
 ### Result
 ![alt text][result]
 
-[result]: https://raw.githubusercontent.com/MichaelStarkey/AddressBook/master/screenshots/templateview.png "result"
+[result]: https://raw.githubusercontent.com/MichaelStarkey/exampleBottle/master/screenshots/templateview.png "result"
 
 ## Screenshots
 ### Main Contact View
 ![alt text][contactview]
 
-[contactview]: https://raw.githubusercontent.com/MichaelStarkey/AddressBook/master/screenshots/contact.png "main contact view"
+[contactview]: https://raw.githubusercontent.com/MichaelStarkey/exampleBottle/master/screenshots/contact.png "main contact view"
 ### Add Contact View
 ![alt text][addview]
 
-[addview]: https://raw.githubusercontent.com/MichaelStarkey/AddressBook/master/screenshots/addnew.png "add contact view"
+[addview]: https://raw.githubusercontent.com/MichaelStarkey/exampleBottle/master/screenshots/addnew.png "add contact view"
